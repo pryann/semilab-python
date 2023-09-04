@@ -1,5 +1,9 @@
 # Semilab
 
+## tanuláshoz
+- [https://realpython.com/](https://realpython.com/)
+- [https://docs.python.org/3/](https://docs.python.org/3/)
+
 ## libek/toolok
 
 - scypy

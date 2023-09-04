@@ -19,3 +19,19 @@ multiple_string = '''first line
                      second line'''
 
 escape_chars = 'first line \n second line'
+
+print(True, type(True))
+
+print(None, type(None))
+
+print(10 + 10)
+print(10 - 10)
+print(10 * 10)
+print(10 / 10)
+print(10 % 3)
+print(10 // 3)
+print(type(10 ** 3.2))
+print(type(10 ** 3))
+
+# TypeError, Type conversion
+print('hello' + str(10))
