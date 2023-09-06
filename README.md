@@ -44,3 +44,11 @@
 - pip install nuikta
 - pl: python -m nuitka --standalone --onefile  .\03-day\install.py 
 - alternatíva: pyinstaller
+
+## binary file
+- [https://pypi.org/project/binaryfile/](https://pypi.org/project/binaryfile/)
+- [https://docs.python.org/3/library/struct.html#struct.unpack](https://docs.python.org/3/library/struct.html#struct.unpack)
+
+## Good to know
+- dataclass
+- dunder methods: eq, repr, str, len
