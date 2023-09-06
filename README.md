@@ -52,3 +52,6 @@
 ## Good to know
 - dataclass
 - dunder methods: eq, repr, str, len
+
+## Mail
+- gergely.gall@training360.com
