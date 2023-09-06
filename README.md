@@ -30,11 +30,17 @@
 - yapf
 
 ## qc tool és egyebek:
-[https://realpython.com/python-code-quality/#why-does-code-quality-matter](https://realpython.com/python-code-quality/#why-does-code-quality-matter)
+- [https://realpython.com/python-code-quality/#why-does-code-quality-matter](https://realpython.com/python-code-quality/#why-does-code-quality-matter)
 
 
 ## verziószámozás
-[https://semver.org/](https://semver.org/)
+- [https://semver.org/](https://semver.org/)
 
 ## escape sequences
-[https://docs.python.org/3/reference/lexical_analysis.html](https://docs.python.org/3/reference/lexical_analysis.html)
+- [https://docs.python.org/3/reference/lexical_analysis.html](https://docs.python.org/3/reference/lexical_analysis.html)
+
+## installer
+- [https://coderslegacy.com/python/nuitka-tutorial/](https://coderslegacy.com/python/nuitka-tutorial/)
+- pip install nuikta
+- pl: python -m nuitka --standalone --onefile  .\03-day\install.py 
+- alternatíva: pyinstaller
